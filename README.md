@@ -143,23 +143,23 @@ Interpretation Highlights
 
 ### Key Insights for Traffic Policy
 
-- Improve nighttime lighting
+- **Improve nighttime lighting**
 
   Faulty or inactive lighting is strongly linked to fatal outcomes.
 
-- Replace or supplement flashing signals
+- **Replace or supplement flashing signals**
 
   Flashing-only intersections show significantly higher risk.
 
-- Enhance pedestrian crossing safety
+- **Enhance pedestrian crossing safety**
 
   Consider raised crosswalks, refuge islands, and illuminated markings.
 
-- Mitigate roadside hazards
+- **Mitigate roadside hazards**
 
   Relocate or shield electric poles and guardrails where feasible.
 
--  Use simplified model for city-level monitoring
+-  **Use simplified model for city-level monitoring**
 
    Only 10 variables needed—lightweight and interpretable.
 
