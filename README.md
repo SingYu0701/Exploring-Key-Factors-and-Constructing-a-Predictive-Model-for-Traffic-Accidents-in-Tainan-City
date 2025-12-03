@@ -1,5 +1,6 @@
 # Exploring-Key-Factors-and-Constructing-a-Predictive-Model-for-Traffic-Accidents-in-Tainan-City
-Final report of Big Data Analytics and Data Mining, 2025@ NCKU Resource Engineering
+Final report of Big Data Analytics and Data Mining, June 2025@ NCKU Resource Engineering
+
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 ![Colab](https://img.shields.io/badge/Google-Colab-yellow?logo=googlecolab)
 
